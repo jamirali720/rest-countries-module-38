@@ -1,0 +1,17 @@
+.country-div {
+    border: 2px solid red;
+    border-radius:  20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.country-div img{
+    width: 250px;
+    height: 120px;
+}
+button {
+    width : 150px;
+    height:30px;
+    margin-top: 20px;
+
+}
